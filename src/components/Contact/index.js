@@ -85,7 +85,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Arockia Joshwa,
+          Mohamed Assaf,
           <br />
           Bannari Amman Institute of Technology,
           <br />
@@ -94,7 +94,7 @@ const Contact = () => {
           Erode, 638402, <br />
           Tamil Nadu, India <br />
           <br />
-          <span>arockiajoshwa.me21@bitsathy.ac.in</span>
+          <span>Mohamedassaf.ec21@bitsathy.ac.in</span>
         </div>
         <div className="map-wrap">
           <MapContainer center={[11.496851, 77.2772504]} zoom={13}>

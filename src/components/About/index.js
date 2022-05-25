@@ -33,10 +33,10 @@ const About = () => {
             />
           </h1>
           <p>
-            Hey I'm Arockia Joshwa and this is my first MERN project!!
+            Hey I'm Mohamed Assaf and this is my first MERN project!!
           </p>
           <p align="LEFT">
-            Taking Role of Engineering student on Mechanical Engineering branch From 
+            Taking Role of Engineering student on Electronics and communication Engineering branch From 
             Bannari Amman Institute of Technology.
           </p>
           <p>
